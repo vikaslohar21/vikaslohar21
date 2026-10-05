@@ -1,8 +1,8 @@
 ## Hi, I'm Vikas 👋
 
-**Flutter Developer** building production apps for Android & iOS · Ahmedabad, India
+**Flutter Developer** building production apps for Android & iOS
 
-I build cross-platform mobile apps with Flutter: clean architecture, solid state management, and the integrations real products need (auth, push notifications, payments, maps). I've shipped multiple client apps to the Play Store and App Store, across food delivery, e-commerce and retail.
+I build cross-platform mobile apps with Flutter, from the first screen to the store release. I've shipped production client apps to the Play Store and App Store across **food delivery, e-commerce, retail, event management and healthcare (doctor–patient)**. That covers clean architecture and state management through to auth, real-time updates, push notifications, payments and maps.
 
 ### 🛠 Tech stack
 
