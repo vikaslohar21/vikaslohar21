@@ -27,4 +27,4 @@ Most of my professional work is closed-source client apps, so it isn't public he
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/vikas-lohar-18645921a) · vikaslohar2122@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vikaslohar) · vikaslohar2122@gmail.com
