@@ -2,7 +2,7 @@
 
 **Flutter Developer** building production apps for Android & iOS
 
-I build cross-platform mobile apps with Flutter, from the first screen to the store release. I've shipped production client apps to the Play Store and App Store across **food delivery, e-commerce, retail, event management and healthcare (doctor–patient)**. That covers clean architecture and state management through to auth, real-time updates, push notifications, payments and maps.
+I build cross-platform mobile apps with Flutter, from the first screen to the store release. I've shipped production client apps to the Play Store and App Store across **food delivery, e-commerce, retail, event management and healthcare**. That covers clean architecture and state management through to auth, real-time updates, push notifications, payments and maps.
 
 ### 🛠 Tech stack
 
